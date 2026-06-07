@@ -5,6 +5,7 @@ A Streamlit app that lets you upload any tabular dataset, define input features 
 ![Python](https://img.shields.io/badge/python-3.10%2B-blue)
 ![DSPy](https://img.shields.io/badge/dspy-3.2.1-orange)
 ![Streamlit](https://img.shields.io/badge/streamlit-1.35%2B-red)
+[![GitHub Stars](https://img.shields.io/github/stars/Laxminarayen/dspy-prompt-optimizer?style=social)](https://github.com/Laxminarayen/dspy-prompt-optimizer/stargazers)
 
 ---
 
@@ -1168,6 +1169,19 @@ Pick any of the items below. Difficulty is approximate.
 - **Keep the single-file structure** — `app.py` is intentionally self-contained. Don't split into modules unless a feature genuinely requires it (e.g., a separate retriever module for RAG).
 - **All new packages go in `requirements.txt`** with a `>=` lower bound, not an exact pin.
 - **Never commit API keys, `.env` files, or personal CSV data.** The `.gitignore` blocks `*.csv` and `.env` already, but double-check before pushing.
+
+---
+
+## Show your support
+
+If this project saved you time or helped you learn DSPy, please consider giving it a star — it helps others discover it and motivates continued development.
+
+[![Star this repo](https://img.shields.io/github/stars/Laxminarayen/dspy-prompt-optimizer?style=social)](https://github.com/Laxminarayen/dspy-prompt-optimizer/stargazers)
+
+You can also help by:
+- Sharing it with someone who works on LLM prompt engineering
+- Opening an issue if you find a bug or have a feature request
+- Submitting a pull request (see the Contributing section above)
 
 ---
 
