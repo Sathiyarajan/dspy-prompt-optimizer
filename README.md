@@ -6,6 +6,7 @@ A Streamlit app that lets you upload any tabular dataset, define input features 
 ![DSPy](https://img.shields.io/badge/dspy-3.2.1-orange)
 ![Streamlit](https://img.shields.io/badge/streamlit-1.35%2B-red)
 [![GitHub Stars](https://img.shields.io/github/stars/Laxminarayen/dspy-prompt-optimizer?style=social)](https://github.com/Laxminarayen/dspy-prompt-optimizer/stargazers)
+[![GitHub Watchers](https://img.shields.io/github/watchers/Laxminarayen/dspy-prompt-optimizer?style=social)](https://github.com/Laxminarayen/dspy-prompt-optimizer/watchers)
 
 ---
 
@@ -1174,14 +1175,14 @@ Pick any of the items below. Difficulty is approximate.
 
 ## Show your support
 
-If this project saved you time or helped you learn DSPy, please consider giving it a star — it helps others discover it and motivates continued development.
+If this project saved you time or helped you learn DSPy, please consider showing your support:
 
-[![Star this repo](https://img.shields.io/github/stars/Laxminarayen/dspy-prompt-optimizer?style=social)](https://github.com/Laxminarayen/dspy-prompt-optimizer/stargazers)
+[![Star this repo](https://img.shields.io/github/stars/Laxminarayen/dspy-prompt-optimizer?style=social)](https://github.com/Laxminarayen/dspy-prompt-optimizer/stargazers)  [![Watch this repo](https://img.shields.io/github/watchers/Laxminarayen/dspy-prompt-optimizer?style=social)](https://github.com/Laxminarayen/dspy-prompt-optimizer/watchers)
 
-You can also help by:
-- Sharing it with someone who works on LLM prompt engineering
-- Opening an issue if you find a bug or have a feature request
-- Submitting a pull request (see the Contributing section above)
+- **Star** — lets others discover the project and shows appreciation
+- **Watch** — get notified when new features, bug fixes, or releases are published (click Watch → Custom → check Releases and Discussions)
+- **Share** — send it to someone who works on LLM prompt engineering
+- **Contribute** — open an issue or submit a pull request (see the Contributing section above)
 
 ---
 
